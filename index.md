@@ -10,5 +10,5 @@ Donald Fauntleroy Duck is a cartoon character created in 1934 at Walt Disney Pro
 * he almost never intends to hurt anyone
 * he is always very apologetic
 
-> "What's the big idea!?"
+> What's the big idea!?
 
