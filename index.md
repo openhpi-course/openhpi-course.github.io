@@ -12,3 +12,5 @@ Donald Fauntleroy Duck is a cartoon character created in 1934 at Walt Disney Pro
 
 > What's the big idea!?
 
+<img src="http://pngimg.com/uploads/donald_duck/donald_duck_PNG76.png"/>
+
